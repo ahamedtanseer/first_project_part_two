@@ -29,10 +29,10 @@ header{}
 	float:left;
 }
 .menu ul li a{
-	padding:10px 15px;
+	padding:10px 14px;
 	display:inline-block;
 	font-family:sans-serif;
-	font-size:17px;
+	font-size:16px;
 	font-weight:normal;
 	color:#535D69;
 	text-decoration:none;
